@@ -19,6 +19,7 @@ public class BasicsGETMethodAutomation {
 		
 		System.out.println("GET Request Submitted successfully");
 		
+		System.out.println("GET Request Submitted successfully");
 		
 		
 		
